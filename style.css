@@ -1,0 +1,25 @@
+body{
+    background-color: goldenrod;
+}
+#score{
+    font-size: 20px;
+    margin-left: 50px;
+}
+#timer{
+    float: right;
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+#sketch_to_be_drawn{
+    color:darkviolet ;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#show_sketch{
+    float: right;
+}
+canvas{
+    border: 2px solid white;
+}
